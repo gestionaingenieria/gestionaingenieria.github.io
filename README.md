@@ -1,2 +1,3 @@
-# gestionaingenieria.github.io
-20200614
+# Gestiona Ingeniería
+
+![Gestiona Ingeniería](assets/logo.png)
